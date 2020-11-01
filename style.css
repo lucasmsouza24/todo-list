@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(255, 230, 88);
+}
+
+#app {
+    background-color: rgb(241, 57, 57);
+    width: 500px;
+    min-height: auto;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px black;
+}
+#app input, #app button {
+    margin: 0px 5px;
+}
+li {
+    background-color: yellow;
+    margin: 10px auto;
+    list-style-type: none;
+    width: 270px;
+    padding: 10px;
+    border-radius: 15px;
+}
